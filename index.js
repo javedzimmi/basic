@@ -10,7 +10,5 @@ btn.addEventListener("click", function () {
         h1.textContent = inputText;
     }
 
-    if (inputImg) {
-        img.src = inputImg;
-    }
+   
 });
